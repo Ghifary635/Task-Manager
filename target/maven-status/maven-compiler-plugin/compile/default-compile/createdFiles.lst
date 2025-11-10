@@ -1,0 +1,10 @@
+com\mycompany\proyek_pbo\Categorizable.class
+com\mycompany\proyek_pbo\Remindable.class
+com\mycompany\proyek_pbo\Priority.class
+com\mycompany\proyek_pbo\TaskManager.class
+com\mycompany\proyek_pbo\WorkTask.class
+com\mycompany\proyek_pbo\PersonalTask.class
+com\mycompany\proyek_pbo\Task.class
+com\mycompany\proyek_pbo\TaskStatus.class
+com\mycompany\proyek_pbo\Prioritizable.class
+com\mycompany\proyek_pbo\Proyek_PBO.class
