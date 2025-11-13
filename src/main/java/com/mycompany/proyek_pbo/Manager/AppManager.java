@@ -79,7 +79,7 @@ public class AppManager {
     }
 
     public static void viewTaskInfo(){
-        if (taskList == null){
+        if (taskList.isEmpty()){
             System.out.println("No task found");
             return;
         }
@@ -141,7 +141,7 @@ public class AppManager {
     }
 
     public static void updateTaskStatus(){
-        if (taskList == null){
+        if (taskList.isEmpty()){
             System.out.println("No task found");
             return;
         }
@@ -191,7 +191,7 @@ public class AppManager {
     }
     
     public static void deleteTask(){
-        if (taskList == null){
+        if (taskList.isEmpty()){
             System.out.println("No task found");
             return;
         }
