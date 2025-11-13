@@ -37,5 +37,4 @@ public class WorkTask extends Task implements Prioritizable{
     // Interface
     public void setPriority(Priority p){this.priority = p;}
     public Priority getPriority(){return priority;}
-    public boolean isHighPriority(){return priority == Priority.HIGH;}
 }

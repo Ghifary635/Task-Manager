@@ -47,7 +47,7 @@ public class Main {
     public static void displayMainMenu() {
         System.out.println("\n=== MAIN MENU ===");
         System.out.println("1. Add New Task");
-        System.out.println("2. View All Tasks");
+        System.out.println("2. View Tasks");
         System.out.println("3. Update Task Status");
         System.out.println("4. Delete Task");
         System.out.println("5. Search Task");

@@ -31,7 +31,7 @@ public abstract class Task {
     public void setStatus(TaskStatus status){this.status = status;}
 
     // Abstract Method
-    public abstract String generateTaskId();
+    protected abstract String generateTaskId();
     public abstract void printInfo();
 
     // Addition

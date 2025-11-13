@@ -126,7 +126,7 @@ public class AppManager {
                     }
                     break;
                 case 4:
-                    System.out.println("\n=== VIEW OVERDUE TASK ===");
+                    System.out.println("\n=== VIEW TASK DUE TODAY===");
                     for (int i = 0; i < taskList.size(); i++){
                         if (taskList.get(i).isDueToday()){
                             taskList.get(i).printInfo();
@@ -232,18 +232,16 @@ public class AppManager {
                 String id = scanner.nextLine();
 
                 boolean found = false;
-                
                 for (int i = 0; i < taskList.size(); i++) {
                     Task t = taskList.get(i);
                     if (t.getTaskId().equals(id)) {
                         System.out.printf("%d. (%s) %s [%s]\n",
-                        i + 1,
+                        1,
                         t.getTaskId(),
                         t.getTitle(),
                         t.getStatus()
                         );
                         found = true;
-                        break;
                     }
                 }
 
