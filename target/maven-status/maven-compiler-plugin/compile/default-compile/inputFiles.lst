@@ -1,9 +1,7 @@
-/workspaces/Task-Manager/src/main/java/com/mycompany/proyek_pbo/Categorizable.java
 /workspaces/Task-Manager/src/main/java/com/mycompany/proyek_pbo/PersonalTask.java
 /workspaces/Task-Manager/src/main/java/com/mycompany/proyek_pbo/Prioritizable.java
 /workspaces/Task-Manager/src/main/java/com/mycompany/proyek_pbo/Priority.java
 /workspaces/Task-Manager/src/main/java/com/mycompany/proyek_pbo/Proyek_PBO.java
-/workspaces/Task-Manager/src/main/java/com/mycompany/proyek_pbo/Remindable.java
 /workspaces/Task-Manager/src/main/java/com/mycompany/proyek_pbo/Task.java
 /workspaces/Task-Manager/src/main/java/com/mycompany/proyek_pbo/TaskManager.java
 /workspaces/Task-Manager/src/main/java/com/mycompany/proyek_pbo/TaskStatus.java
